@@ -79,8 +79,8 @@ if(tryLeft == 0){
 var omitBtn = document.getElementById("omitBtn");
 omitBtn.addEventListener("click", function(){
     confirmationPinCheck.value = confirmationPinCheck.value.slice(0,-1);
-    alertRemover();
-    fontAndColorFixer();
+    alertRemove();
+    fontAndColorFix();
 });
 
 //clearButton function to delete all the number at a time
