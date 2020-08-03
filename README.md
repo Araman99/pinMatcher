@@ -1,1 +1,1 @@
-# pin-matcher
+# pinMatcher
