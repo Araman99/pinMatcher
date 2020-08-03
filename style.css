@@ -6,7 +6,7 @@ body {
     height: 100vh;
 }
 .container {
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .half-width {
@@ -94,7 +94,7 @@ color: #E0B612;
     text-align: center;
     margin: 0 auto;
     background: #222436;
-    margin-top: 20px;
+    margin: 25px 0;
     border-radius: 15px;
     padding: 5px 20px;
 }
@@ -106,7 +106,7 @@ color: #E0B612;
     color: #FF3C5F;
     margin-top: 10px;
 }
-#missMatchPin{
+#mismatchPin{
     display: none;
 }
 #matchPin{
